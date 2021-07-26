@@ -1,0 +1,69 @@
+/*h1{
+    color: #ffffff;
+}
+
+h2{
+    text-align: center;
+}
+
+b{
+    color:#663399;
+}
+
+.header{
+    height: 100px;
+}
+
+
+
+.menu{
+    display: flex;
+    justify-content:space-between;
+    background-color:#000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family:  'Courier New';
+    font-weight: 400;
+    color:#ffffff;
+}
+
+.grid{
+    background-image: url(images/greywood.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: baseline;
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+.item{    
+    border-radius: 20px;
+    background-image:url(images/goldwood.png);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: Segoe UI;
+}
+
+.bodyImg{
+    position: relative;
+    color: #ffffff;
+}
+
+.bodyContent{
+    padding-left: 20px;
+    font-family:'Courier New';
+    position: absolute;
+}
+
+body{
+    margin: 0px;
+}*/
